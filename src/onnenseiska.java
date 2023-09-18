@@ -5,6 +5,7 @@ public class onnenseiska {
 
 	public static void main(String[] args) {
 		
+		//toinen GitHub-muutos
 		Scanner in = new Scanner(System.in);
 		Random arvottunro = new Random();
 		int rahamaara = 0;
