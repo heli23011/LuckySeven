@@ -15,6 +15,7 @@ public class onnenseiska {
 		int random2 = arvottunro.nextInt(10) + 1;
 		int random3 = arvottunro.nextInt(10) + 1;
 		
+		//pyydetään käyttäjältä rahamäärää, jolla haluaa osallistua peliin
 		System.out.println("Anna rahamäärä, jolla haluat pelata.");
 		kayttajanraha = in.nextLine();
 		rahamaara = Integer.parseInt(kayttajanraha);
